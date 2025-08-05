@@ -192,12 +192,6 @@ Potential improvements for future versions:
 - Email notification system
 - Advanced search and filtering capabilities
 
-## 📞 Support
-
-For technical support or questions about this application:
-- Check the code comments for implementation details
-- Review the database schema for data structure
-- Contact the development team for specific issues
 
 ## 📄 License
 
