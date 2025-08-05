@@ -200,12 +200,6 @@ The application features a clean, user-friendly interface with:
 
 This project is developed for academic purposes and educational use.
 
-## 👥 Support
-
-For technical support or questions:
-- Check the documentation in the code comments
-- Review the database schema in `SqlQuery_1.sql`
-- Examine the code-behind files for implementation details
 
 ## 🔄 Version History
 
